@@ -1,7 +1,7 @@
 <h1 align="center">Namaste Tiffins</h1>
 
 <p align="center">
-  <img src="./namaste.jpg" alt="Namaste Tiffins" class="namaste-message" />
+  <img src="src/namaste.jpg" alt="Namaste Tiffins" class="namaste-message" />
 </p>
 <p align="center">A NE.RA.SA Venture</p>
 

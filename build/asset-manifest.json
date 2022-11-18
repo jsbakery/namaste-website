@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.a6a1eb03.js",
+    "static/js/787.d1a9675b.chunk.js": "/static/js/787.d1a9675b.chunk.js",
+    "static/media/NamasteTiffinsMessage.jpg": "/static/media/NamasteTiffinsMessage.17b554229ee0fdcf6e83.jpg",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.a6a1eb03.js.map": "/static/js/main.a6a1eb03.js.map",
+    "787.d1a9675b.chunk.js.map": "/static/js/787.d1a9675b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a6a1eb03.js"
+  ]
+}
